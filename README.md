@@ -12,11 +12,11 @@ Antes de empezar el curso se deben seguir algunas instrucciones para que esté t
 
 ### Windows
 
-[Instrucciones para Windows](https://github.com/capacitaciones-r4/curso-python-rio4/blob/master/md/instalacion-windows.md)
+[Instrucciones para Windows](md/instalacion-windows.md)
 
 ### GNU/Linux
 
-[Instrucciones para GNU/Linux](https://github.com/capacitaciones-r4/curso-python-rio4/blob/master/md/instalacion-gnu-linux.md)
+[Instrucciones para GNU/Linux](md/instalacion-gnu-linux.md)
 
 ## Sobre el curso
 
