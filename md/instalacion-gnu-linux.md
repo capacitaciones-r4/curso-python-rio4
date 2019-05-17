@@ -15,7 +15,7 @@ sudo apt-get install git
 Es un directorio con el material del curso. Para clonarlo o descargarlo en la compu ingresar desde la terminal o línea de comandos (`Ctrl + T` para abrir la terminal):
 
 ```sh
-cd && git clone https://github.com/capacitaciones-r4/curso-python-2019
+cd && git clone https://github.com/capacitaciones-r4/curso-python-rio4
 ```
 
 Luego del paso 1, se debe contar con el directorio del curso en la compu.
@@ -223,3 +223,13 @@ Se debería abrir lo siguiente:
 
 
 **¡FELICIDADES!** La compu está lista para arrancar el curso.
+
+Un ratito antes de empezar la primer clase:
+
+```sh
+cd
+cd curso-python-rio4
+source activate curso-python
+git pull
+jupyter-lab
+```
