@@ -44,7 +44,7 @@ click en [descargar git](https://git-scm.com/download/win)
 
 ## Paso 2: Clonar el repositorio
 
-Es un directorio con el material del curso. Para clonarlo o descargarlo en la compu ingresar **clien en `Inicio`, luego `Git GUI`.
+Es un directorio con el material del curso. Para clonarlo o descargarlo en la compu ir a `Inicio`, luego `Git GUI`.
 
 ![](https://i.imgur.com/Idaqudm.png)
 
@@ -69,9 +69,9 @@ Completar los campos `user` e `email`.
 
 [Anaconda](https://www.anaconda.com/) es una distribución que administra y gestiona el intérprete de Python, su paquetería, entornos virtuales y entornos de trabajo. 
 
-:::danger
+**¡OJO**
 Atención al paso **3.5**
-:::
+
 
 * **3.1**. Ejecutar el instalador
 
