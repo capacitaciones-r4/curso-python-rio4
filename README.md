@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/8g18fJp.png)
 
-[Sitio del curso](bit.ly/python-r4)
+[Sitio del curso](https://capacitaciones-r4.github.io/python/)
 
 Se trata de la primera edición del curso de Python para todo público en la ciudad de Río Cuarto. Formado por cuatro clases intensivas de módulo básico y clases optativas a demanda.
 
