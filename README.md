@@ -54,4 +54,4 @@ El curso de Python es presencial, el módulo introductorio tiene un tiempo y dis
 
 ### Metodología
 
-Para el total de las clases se introducen teórica y conceptualmente los temas, mientras se desarrollan ejemplos, ejercicios o pequeños programas de aplicación. Y se anima a los asistentes a profundizar, resolver ejercicios extra a modo de tarea...
+Para el total de las clases se introducen teórica y conceptualmente los temas, mientras se desarrollan ejemplos, ejercicios o pequeños programas de aplicación. Y se anima a los asistentes a profundizar, resolver ejercicios extra a modo de tarea.
