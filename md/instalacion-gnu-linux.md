@@ -136,7 +136,7 @@ https://www.anaconda.com/pycharm
 Anaconda permite crear entornos virtuales, se trata de una "porción" de la compu con su propio interprete de python y bibliotecas en versiones específicas, que no interfiere con las del sistema, de manera que si algo falla en ese entorno, no afecta al resto del sistema. Además, es una garantía de trabajar en las mismas condiciones para todos los asistentes.
 
 ```sh
-cd curso-python-2019
+cd curso-python-rio4
 conda create -n curso-python python=3.7
 ```
 
@@ -188,7 +188,7 @@ Debería cambiar la línea de comandos, al comienzo debería aparecer `(curso-py
 
 **3.3**. Escribir en la terminal:
 
-### Paso 4: Iniciar Jupyterlab
+### Paso 4: Instalar e iniciar Jupyterlab
 
 [Jupyterlab](https://jupyter.org/) es un editor de archivos de documentación y de código que ofrece una IDE amigable y numerosos plugins para facilitar tareas al desarrollar, además de ser un estándar en la comunidad de Python.
 
@@ -196,9 +196,9 @@ En la terminal ingresar:
 
 ```sh
 cd
-cd curso-python
+cd curso-python-rio4
+echo 'y' | conda install jupyterlab
 jupyter-lab
-
 ```
 
 Se muestra lo siguiente:
